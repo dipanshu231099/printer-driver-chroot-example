@@ -1,0 +1,31 @@
+Copyright (C) 2009  SEIKO EPSON Corporation
+
+ABSTRACT
+--------
+This software is a filter program used with Common UNIX Printing
+System (CUPS) from the Linux. This can supply the high quality print
+with Seiko Epson Color Ink Jet Printers.
+
+This printer driver is supporting the following printers.
+Epson Stylus NX130
+Epson Stylus TX130
+Epson Stylus TX133
+Epson Stylus TX135
+Epson Stylus SX130
+Epson ME 340
+
+
+LICENSING
+---------
+This program is distributed under GNU Lesser General Public License version 2.1. 
+This program links the following object codes which are distributed under the conditions of 
+SEIKO EPSON CORPORATION SOFTWARE LICENSE AGREEMENT.
+ *libEpson_201101w.so.1.0.0
+ *libEpson_201101w.MT.so.1.0.0
+
+
+INSTALLATION
+---------
+For installation, please refer to below site:
+http://avasys.jp/english/linux_e/
+
